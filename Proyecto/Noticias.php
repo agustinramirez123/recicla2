@@ -12,7 +12,7 @@
 	<div><img src='logo.jpg' class='imgRedonda'></div><header></header>
   <br>
   <br>
-    <a class="boton3" href="home.php">Pagina principal</a>
+    <a class="boton3" href="home2.php">Pagina principal</a>
     
     <br>
   <br>
@@ -25,9 +25,8 @@
 
 
   
-    <h2><span class="titulop">UN NUEVO E IMPACTATE PROYECTO PARA COMBATIR LA CONTAMINACION  AMBIENTAL Y CUIDAR LA FAUNA</span></h2>
+    <h2><span class="titulopeq">UN NUEVO E IMPACTATE PROYECTO PARA COMBATIR LA CONTAMINACION  AMBIENTAL Y CUIDAR LA FAUNA</span></h2>
    <div class="noticia1">
-
 
     
     <p><span class="texto1">La iniciativa surge desde el Instituto INALI (Instituto Nacional de Limnología) del Conicet e invitan a reunir imágenes de interacciones de animales con desechos </br></br>
@@ -38,7 +37,7 @@
 
 </br></br>
 
-"¿ESTAN LOS PLASTICOS AFECTANDO A NUESTRA FAUNA?" así comienza la campaña lanzada 
+<p>"¿ESTAN LOS PLASTICOS AFECTANDO A NUESTRA FAUNA?" así comienza la campaña lanzada 
 </br></br>
 
 
@@ -48,14 +47,14 @@ Desde la campaña difundida por Ciencia Ciudadana comentan: "Conocemos bastante 
 
  
 "¿Están los plásticos afectando a nuestra fauna?; ¿De qué manera?; ¿Igual que en mar?". Es por eso que a raíz de esas preguntas invitan a la población a enviar imágenes de interacciones entre plásticos y la fauna que hayan registrado en su vida cotidiana. A su vez, piden que se indique el lugar donde la foto fue tomada.<br>
-El Instituto se dedica al estudio de los ecosistemas acuáticos continentales de Argentina, especialmente los vinculados al río Paraná y su cuenca, así como a la biodiversidad de invertebrados y <br>vertebrados. Forma recursos humanos de alto nivel abocados a la investigación y la docencia, brinda servicios y asesoramiento a entidades oficiales y privadas, y realiza acciones de divulgació</span></p>
+El Instituto se dedica al estudio de los ecosistemas acuáticos continentales de Argentina, especialmente los vinculados al río Paraná y su cuenca, así como a la biodiversidad de invertebrados y <br>vertebrados. Forma recursos humanos de alto nivel abocados a la investigación y la docencia, brinda servicios y asesoramiento a entidades oficiales y privadas, y realiza acciones de divulgació</p>
 <br>
 <br>
 <br>
 <br>
 </div>
 
-<h2><span class="titulop">NUEVA DELHI EXPERMIENTA PICOS DE CONTAMINACION AMBIENTAL Y DE CORONAVIRUS</span></h2>
+<h2><span class="titulopeq">NUEVA DELHI EXPERMIENTA PICOS DE CONTAMINACION AMBIENTAL Y DE CORONAVIRUS</span></h2>
 <div class="noticia1">
 <p><span class="texto1">El jueves Nueva Delhi se enfrentaba a un pico de contagios de coronavirus al tiempo que soporta los peores niveles de  contaminación ambiental en un año, que aumenta los riesgos de la pandemia, advirtió el jefe del ejecutivo local, Arvind Kejriwal.<br>
 
@@ -71,16 +70,16 @@ India es el segundo país del mundo en número de infecciones de covid-19, despu
 <br>
 <br>
 </div>
-<h2><span class="titulop">¿COMO AFECTA LA CONTAMINACION A LA SALUD MENTAL?</span></h2>
+<h2><span class="titulopeq">¿COMO AFECTA LA CONTAMINACION A LA SALUD MENTAL?</span></h2>
 <div class="noticia1">
-<p><span class="texto1">n nuevo estudio ha encontrado un vínculo significativo entre la contaminación del aire y la probabilidad de desarrollar ciertas enfermedades neurodegenerativas.<br>
+<p><span class="texto1">Un nuevo estudio ha encontrado un vínculo significativo entre la contaminación del aire y la probabilidad de desarrollar ciertas enfermedades neurodegenerativas.<br>
 
 Hoy en día, y más que nunca, vivimos en un sociedad que se preocupa crecientemente por su salud. Pero si bien es cierto que cada vez más personas se ocupan en mantener una dieta equilibrada, se interesan por la procedencia y valor nutricional de los alimentos que consumen.<br>
 
 También por equilibrar un estilo de vida sedentario con la actividad física, no es menos cierto que, pese los continuos avisos de entidades científicas y civiles sobre las consecuencias de la contaminación atmosférica, esta es una cuestión que, pese a sus consecuencias, por alguna extraña razón no termina de calar entre las preocupaciones generales de la sociedad en materia de salud.</span></p>
 </div>
 
-<h3><span class="titulop">LA CONTAMINACION DEL AIRE</span></h3>
+<h3><span class="titulopeq">LA CONTAMINACION DEL AIRE</span></h3>
 <div class="noticia1">
 <p><span class="texto1">Hoy, de hecho, sabemos que más del 90% de las personas respira aire contaminado, que esta polución es la causante de entre 9 y 33 millones de visitas anuales a las salas de urgencias de todo el mundo, así como de la muerte de más de 7 millones de personas al año.<br>
 
@@ -88,7 +87,7 @@ Otros estudios realizados en los 2 últimos años sobre la contaminación del ai
 
 De la misma manera, otras investigaciones también vienen relacionando los efectos de la contaminación del aire con la salud mental de las personas. Estudios anteriores ya sugerían, por ejemplo, un posible vínculo entre la exposición a la contaminación ambiental y un aumento en la prevalencia de trastornos psiquiátricos. Este otro trabajo ha asociado la presencia de nanopartículas contaminantes presentes en el aire con daños en la estructura del cerebro similares a los provocados por el alzhéimer.</span></p>
 </div>
-<h3><span class="titulop">LAS PELIGROSAS PARTICULAS PM 2.5</span></h3>
+<h3><span class="titulopeq">LAS PELIGROSAS PARTICULAS PM 2.5</span></h3>
 <div class="noticia1">
 <p><span class="texto1">Ahora una nueva investigación publicada en The Lancet Planetary Health y llevada a cabo por las escuelas de salud pública Rollins y Mailman de las universidades de Emory y Columbia respectivamente, acaba de dar a luz un trabajo sin precedentes por la gran e incomparable cantidad de datos con estudios anteriores, que constituye el primer análisis a nivel nacional del vínculo entre la contaminación por partículas finas -PM 2.5- y las enfermedades neurodegenerativas en los Estados Unidos.<br>
 

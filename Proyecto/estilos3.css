@@ -6,6 +6,9 @@ body{
 background-size: cover;
     background-attachment: fixed;
 }
+p{
+  margin-left: 1%;
+}
 .foto {
 margin-left: 600px;
  margin-right: 600px;
@@ -15,12 +18,18 @@ background-color: #67CB79;
 	 border-radius: 14px 14px 14px 14px;
 	}
 .titulop{
+  margin-left: 42%;
 	 background-color: #67CB79; 
 	 border-radius: 14px 14px 14px 14px;
 }
+.titulopeq{
+  background-color: #C8ECA0; 
+   border-radius: 14px 14px 14px 14px;
+}
 .noticia1{
-  background-color: #b9e387; 
+  background-color: #F5F5F5; 
   border-radius: 14px 14px 14px 14px;
+  font-size: 25px;
 }
 
 .texto{

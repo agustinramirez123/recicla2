@@ -1,0 +1,108 @@
+header {
+    font-family: Cambria;
+    font-size: 70px;
+    text-align: center;
+     -webkit-text-stroke: 1px white;
+  color:black ;
+
+}
+p{
+    color: white;
+  font-weight: normal;
+  
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+
+}
+.titulo2{
+   color: white;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo{
+   color: white;
+  font-weight: normal;
+  font-size: 40px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+h2{
+    -webkit-text-stroke: 1px white;
+  color:black ;
+
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+}
+
+.boton3{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#9AF105 ;
+border-color: #FFFFFF ;
+border-width: 3px;
+border-style: solid;
+margin-bottom: ;
+margin-left: 400px;
+margin-right: 0;
+margin-top:;
+}
+.imgRedonda {
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    margin-left: 500px;
+}
+
+.boton4{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#9AF105 ;
+border-color: #FFFFFF ;
+border-width: 3px;
+border-style: solid;
+margin-bottom: ;
+margin-left: 100px;
+margin-right: 0;
+margin-top: ;
+}
+
+body{
+    background-image: url('arbolitos.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    color: white;
+    font-family: 'Courier New';
+    font-size: 48px;
+    font-weight: bold;
+    background-color: yellow;
+    border: solid 4px black;
+    padding: 60px;
+    margin: 20px;
+    background-image: url('fondo.jpg');
+}

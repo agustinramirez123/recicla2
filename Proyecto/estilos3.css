@@ -1,0 +1,176 @@
+
+body{
+    background-image: url('arbolitos.jpg');
+    background-repeat: repeat;
+    background-size: contain;
+background-size: cover;
+    background-attachment: fixed;
+}
+.foto {
+margin-left: 600px;
+ margin-right: 600px;
+	}
+	.noticiap {
+background-color: #67CB79; 
+	 border-radius: 14px 14px 14px 14px;
+	}
+.titulop{
+	 background-color: #67CB79; 
+	 border-radius: 14px 14px 14px 14px;
+}
+.noticia1{
+  background-color: #b9e387; 
+  border-radius: 14px 14px 14px 14px;
+}
+
+.texto{
+	color: black;
+  font-weight: normal;
+  
+  font-family: Arial,sans-serif;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.texto1{
+  font-weight: 15px;
+}
+.texto2{
+	color: white;
+  font-weight: normal;
+  
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.texto4{
+	color: white;
+  font-weight: normal;
+  
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.texto6{
+	color: white;
+  font-weight: normal;
+  
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.texto5{
+	color: white;
+  font-weight: normal;
+  
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo{
+	color: black;
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo6{
+	color: white;
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo{
+	color: white;
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo2{
+	color: white;
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo4{
+	color: white;
+  font-weight: normal;
+  font-size: 35px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.titulo5{
+	color: white;
+  font-weight: normal;
+  font-size: 25px;
+  font-family: Arial;
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.boton3{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#9AF105 ;
+border-color: #FFFFFF ;
+border-width: 3px;
+border-style: solid;
+margin-left: 830px;
+
+}
+.boton5{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:#ffffff;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#9AF105 ;
+border-color: #FFFFFF ;
+border-width: 3px;
+border-style: solid;
+margin-bottom: ;
+margin-left: 50px;
+margin-right: 0;
+margin-top:;
+}
+
+.imgRedonda {
+    width:300px;
+    height:300px;
+    border-radius:150px;
+    margin-left: 800px;
+}
+
+.boton4{
+text-decoration:none;
+font-weight: 600;
+font-size: 20px;
+color:black;
+padding-top:15px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+background-color:#9AF105 ;
+border-width: 3px;
+border-style: solid;
+margin-bottom: ;
+margin-left: 50px;
+margin-right: 0;
+margin-top: ;
+}
+

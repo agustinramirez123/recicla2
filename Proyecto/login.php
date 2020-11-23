@@ -32,12 +32,12 @@
 			</div>
 			<input type="submit" name="inicio"value="Iniciar sesión" class="boton">
 			<p>¿Todavia no tienes una cuenta? <a href="Register.php" class="link">Registrate</a> </p>
-			<p><a href="home.php" class="link">Volver a pagina principal</a></p>
+			<p><a href="home2.php" class="link">Volver a pagina principal</a></p>
 		
 		<?php 
 			if(isset($_POST['inicio'])){
 			$nombre=$_POST["nombre"];
-			$contraseña=$_POST["contraseña"];
+			$contraseña=md5($_POST["contraseña"]);
 		}
 			$miconsulta= "SELECT * FROM datosusuarios ORDER BY id";
     	$resultado=mysqli_query($enlace, $miconsulta);

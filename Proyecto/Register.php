@@ -37,14 +37,14 @@
 			</div>
 			<input type="submit" name="registro"value="Registrate" class="boton">
 			<p>¿Ya tienes una cuenta? <a href="login.php" class="link">Iniciar sesión</a></p>
-			<p>                 <a class="link"href="home.php">Volver a la pagina principal</a></p>
+			<p>                 <a class="link"href="home2.php">Volver a la pagina principal</a></p>
 		</form>
 	</body>
 </html>
 <?php
 	if(isset($_POST['registro'])){
 		$nombre=$_POST["nombre"];
-		$contraseña=$_POST["contraseña"];
+		$contraseña=md5($_POST["contraseña"]);
 		$correo=$_POST["correo"];
 		
 

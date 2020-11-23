@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -12,7 +12,7 @@
 		<p><input type="file" name="imagen" value="Seleccione su imagen"></p>
 		<p><input type="submit" class="boton2"name="postear" value="Publicar"></p>
 		<p>                    <a href="home.php" class="link">Volver a la pagina inicial</a><p>
-	</form>
+	
 	<?php 
 	$servidor="localhost";
 	$usuario="root";
@@ -20,11 +20,16 @@
 	$basedatos ="posts";
 
 	$enlace=mysqli_connect($servidor,$usuario,$clave,$basedatos);
+	$verifim=0;
 
 	if (!$enlace) {
 		echo "Error de conexion";
 	}
-
+	if (isset($_POST['postear'])) {
+		# code...
+	
+	if(exif_imagetype($_FILES['imagen']['name'])== 2  || exif_imagetype($_FILES['imagen']['name'])== 3)
+	{
 	if ((isset($_FILES['imagen']['name']) && ($_FILES['imagen']['error']==UPLOAD_ERR_OK))) {
 			
 		$destinoruta="Imagenes/";
@@ -37,7 +42,14 @@
 		{
 			echo "el archivo no se copio";
 		}
-	
+	}
+	else
+	{
+		$_FILES['imagen']['name']="";
+		echo "<div class=error>Elija un archivo con el formato correcto</div>";
+		$verifim=1;
+
+	}
 	
 	$eltitulo=$_POST['titulo'];
 	
@@ -47,7 +59,9 @@
 	
 	$laimagen=$_FILES['imagen']['name'];
 
-
+	if ($verifim==0) {
+		# code...
+	
 	$miposteo="INSERT INTO publicaciones (titulo, fecha, comentario, imagen) VALUES ('".$eltitulo."','".$fechaactual."','".$elcomentario."','".$laimagen."')";
 
 	$enviarformulatio=mysqli_query($enlace,$miposteo);
@@ -59,7 +73,10 @@
 	mysqli_close($enlace);
 
 	echo "<br/> Se agrego el post exitosamente <br/> <br/>";
+	}
+}
  ?>
+ </form>
 	</body>
 
 </html>

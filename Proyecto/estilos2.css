@@ -120,6 +120,19 @@ body{
     background-attachment: fixed;
 }
 
+.boton3:hover{
+  background: #32C906
+}
+.boton4:hover{
+  background: #32C906
+}
+.boton5:hover{
+  background: #32C906
+}
+.boton6:hover{
+  background: #32C906
+}
+
 
 .publicaciontitulo{
 
